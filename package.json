@@ -1,0 +1,42 @@
+{
+  "name": "veniamvelit",
+  "version": "1.0.0",
+  "description": "React component for the Wyre widget.",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "standard": "^12.0.1",
+    "watchify": "^3.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdaLind/veniamvelit.git"
+  },
+  "keywords": [
+    "react",
+    "qui",
+    "ethereum",
+    "aut",
+    "dai",
+    "rerum"
+  ],
+  "author": "KarsonGoldner",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/archanova/react-wyre/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/EdaLind/veniamvelit.git/issues"
+  }
+}
